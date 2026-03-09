@@ -1,0 +1,9 @@
+.vs/
+*.suo
+*.user
+*.cache
+*.pdb
+Debug/
+Release/
+x64/
+x86/
