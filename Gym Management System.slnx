@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Gym Management System/Gym Management System.vcxproj" />
+  <Project Path="Gym Management System/Gym Management System.vcxproj" Id="66627b71-4f90-418a-9cf3-c301929e3f29" />
 </Solution>
