@@ -6,7 +6,6 @@ class Member_Management
 {
 public:
 
-	sdfg
 	cout << "potatossss";
 
 private:
