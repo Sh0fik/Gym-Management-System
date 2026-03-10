@@ -6,7 +6,8 @@ class Member_Management
 {
 public:
 
-	cout<< " potatos";
+	sdfg
+	cout << "potatossss";
 
 private:
 
