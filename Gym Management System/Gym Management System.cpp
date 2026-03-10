@@ -6,7 +6,7 @@ class Member_Management
 {
 public:
 
-	cout<< " potatos";
+	cout<< " potaaaatoooos";
 
 private:
 
